@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### *Physician (Cardiology) | Data Scientist | ML & Software Engineer *
+###### Physician (Cardiology) | Data Scientist | ML & Software Engineer
 
 - 🔭 I’m interested in Deep Learning / ML (Computer Vision, Signal Processing, Audio Understanding/Machine Listening, Sound Event Detection)
 - 🌱 I’m fimiliar with full-stack distributed systems, Go, Python.
