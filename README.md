@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m a Physician and a self-taught ML Engineer
+###### *Physician (Cardiology) | Data Scientist | ML & Software Engineer *
+
 - 🔭 I’m interested in Deep Learning / ML (Computer Vision, Signal Processing, Audio Understanding/Machine Listening, Sound Event Detection)
 - 🌱 I’m fimiliar with full-stack distributed systems, Go, Python.
 - 👯 I’m looking to collaborate on any medical datasets
